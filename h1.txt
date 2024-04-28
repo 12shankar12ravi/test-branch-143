@@ -1,0 +1,5 @@
+This is the first commit 
+
+I have some changes in it
+
+I am learning git
